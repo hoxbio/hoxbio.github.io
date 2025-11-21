@@ -1,8 +1,9 @@
 <!-- the header is in _config.yml, next size down is ## -->
 ## CLI
 Demos using the HoX command line tool to interact with the HoX platform
-1. [scRNA](cli/scRNA.md)
-2. [Whole Genome](cli/genome.md)
+1. [Tag and Search](cli/tag_search.md)
+2. [scRNA](cli/scRNA.md)
+3. [Whole Genome](cli/genome.md)
 
 ## GUI
 Demos using the HoX GUI to import, analyze, and export resources
@@ -15,4 +16,3 @@ Demos using the HoX GUI to import, analyze, and export resources
 4. Workflows
 5. Admin
 
-##
