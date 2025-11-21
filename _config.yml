@@ -2,4 +2,5 @@ title: "HoX Bio Tools Demo"
 description: "A getting started guide for the command line and graphical tools provided by the HoX Platform"
 markdown: GFM
 plugins:
+  - jekyll-alerts
   - jekyll-github-metadata
