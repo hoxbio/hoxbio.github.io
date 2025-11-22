@@ -1,5 +1,7 @@
 title: "HoX Bio Tools Demo"
 description: "A getting started guide for the command line and graphical tools provided by the HoX Platform"
+repository: hoxbio/demo
+
 markdown: GFM
 plugins:
   - jekyll-gfm-admonitions
