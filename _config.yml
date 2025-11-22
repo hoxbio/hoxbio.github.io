@@ -1,11 +1,11 @@
 title: "HoX Bio Tools Demo"
 description: "A getting started guide for the command line and graphical tools provided by the HoX Platform"
+url: https://hoxbio.github.io
 repository: hoxbio/demo
 
 markdown: GFM
 plugins:
   - jekyll-gfm-admonitions
-  - jekyll-github-metadata
 
 exclude: 
 - "**/*.ts" # Exclude source code files!
@@ -24,3 +24,4 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+- .gitignore
